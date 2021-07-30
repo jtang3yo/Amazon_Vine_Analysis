@@ -76,6 +76,9 @@ This new assignment consists of two technical analysis deliverables and a writte
  **% of Vine 5 stars Review: 42.5%**
  
  **% of Non-Vine 5 stars Review: 63.3%**
+ 
+ <img width="805" alt="Screen Shot 2021-07-30 at 2 58 48 PM" src="https://user-images.githubusercontent.com/82353749/127699719-78a0f5cc-a2a6-436f-bc9a-7e3cab9952e8.png">
+
 
 
 
